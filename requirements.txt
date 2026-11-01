@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pandas
+tldextract
+python-whois
+requests
+beautifulsoup4
